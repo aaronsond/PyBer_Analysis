@@ -9,7 +9,7 @@ The goal of this analysis is to analyze how different city types vary over diffe
 
 ### DataFrame Analysis
 
-![Dataframe summary](analysis/pyber_df_summary.png)
+![Dataframe summary](analysis/pyber_df_summary.PNG)
 
 As the above dataframe shows, city type correlates with many different metrics. As the city type gets more dense (rural being least dense, and urban being most dense), ride and driver totals go up, while average fare per ride go down, along with the fare per average driver. The increase in quantity outpaces the decrease in average fare, though, meaning that the fare totals for denser areas are higher than for less dense areas. 
 
